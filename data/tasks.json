@@ -1,0 +1,14 @@
+[
+    {
+        "type": "summary",
+        "text": "Enterprise automation reduces manual work and increases productivity..."
+    },
+    {
+        "type": "report",
+        "data": {
+            "total_emails": 52,
+            "processed": 49,
+            "pending": 3
+        }
+    }
+]
